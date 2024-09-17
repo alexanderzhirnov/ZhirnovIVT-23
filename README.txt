@@ -9,4 +9,4 @@
 Запустите программу командой:
 "go run lab1.go"
 Выберите задание в меню и следуйте инструкциям программы.
-https://github.com/ZhirnovIVT-23/lab1.go
+https://github.com/alexanderzhirnov/ZhirnovIVT-23
